@@ -1,0 +1,20 @@
+.titulo{
+    color: maroon; 
+    font-size: 1000; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.tiempo{
+    color: rgb(51, 47, 101);
+    font-size: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fondo{
+    background-color: aliceblue;
+}
+
+.titulo2{
+    color: darkslategray;
+    font-size: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
